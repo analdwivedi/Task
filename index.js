@@ -17,8 +17,7 @@ container.style.margin = '0 auto';
 container.style.display = 'block';
 container.appendChild(newElement);
 
-
-newPara.style.fontWeight = 'bolder';
+newPara.style.fontWeight = '600';
 newPara.style.width = '300px';
 newPara.style.display = 'block';
 newPara.style.margin = '0 auto';
